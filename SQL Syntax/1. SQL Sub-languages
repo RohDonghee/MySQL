@@ -1,0 +1,7 @@
+| Category | Full Name                    | Purpose                          | Common Commands               |
+| -------- | ---------------------------- | -------------------------------- | ----------------------------- |
+| DDL      | Data Definition Language     | Defines the structure/schema.    | CREATE, ALTER, DROP, TRUNCATE |
+| DML      | Data Manipulation Language   | Manages the data within tables.  | INSERT, UPDATE, DELETE        |
+| DQL      | Data Query Language          | Used to fetch or retrieve data.  | SELECT                        |
+| DCL      | Data Control Language        | Controls access and permissions. | GRANT, REVOKE                 |
+| TCL      | Transaction Control Language | Manages transactions (changes).  | COMMIT, ROLLBACK, SAVEPOINT   |
